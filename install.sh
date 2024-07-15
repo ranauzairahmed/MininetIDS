@@ -3,9 +3,6 @@
 # Update package list
 sudo apt-get update
 
-# Install git
-sudo apt install -y git
-
 # Install Mininet
 git clone https://github.com/mininet/mininet
 cd mininet
