@@ -57,7 +57,7 @@ These datasets provide a starting point for testing and evaluating IDS models wi
 
 11. Run the installation script:
     ```bash
-   ./install.sh
+    ./install.sh
 
 ## Usage
 
