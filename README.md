@@ -77,9 +77,8 @@ For a full list of commands, use the `help` command in the MininetIDS interface.
 
 [MIT License](LICENSE)
 
-## Associated with Capital University of Science & Technology
-
-[cust.edu.pk](https://cust.edu.pk)  
+## Associated with [Capital University of Science & Technology](https://cust.edu.pk)
+  
 Faculty of Computing  
 BSCS - Final Year Project  
 
