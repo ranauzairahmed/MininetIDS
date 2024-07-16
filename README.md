@@ -76,25 +76,25 @@ For a full list of commands, use the `help` command in the MininetIDS interface.
 
 ## Associated with Capital University of Science & Technology
 
-[cust.edu.pk](https://cust.edu.pk)
-Faculty of Computing
-BSCS - Final Year Project
+[cust.edu.pk](https://cust.edu.pk) 
+Faculty of Computing 
+BSCS - Final Year Project 
 
 ### Supervisor:
-Dr. Muhammad Siraj Rathore
-muhammad.siraj@cust.edu.pk
-[Faculty Profile](https://cust.edu.pk/our_team/dr-m-siraj-rathore/)
-[Google Scholar](https://scholar.google.com/citations?user=SX-lTOAAAAAJ&hl=en)
-[ResearchGate](https://www.researchgate.net/profile/Muhammad-Rathore-2)
+Dr. Muhammad Siraj Rathore 
+muhammad.siraj@cust.edu.pk 
+[Faculty Profile](https://cust.edu.pk/our_team/dr-m-siraj-rathore/) 
+[Google Scholar](https://scholar.google.com/citations?user=SX-lTOAAAAAJ&hl=en) 
+[ResearchGate](https://www.researchgate.net/profile/Muhammad-Rathore-2) 
 
 ### Group:
-Rana Uzair Ahmed
-ranauzairahmed.official@gmail.com
-[LinkedIn](https://www.linkedin.com/in/ranauzairahmed/)
+Rana Uzair Ahmed 
+ranauzairahmed.official@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/ranauzairahmed/) 
 
 Raja Tayyab Nawaz
-tayyabnawaz177@gmail.com
-[LinkedIn](https://www.linkedin.com/in/rajatayyabnawaz177/)
+tayyabnawaz177@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/rajatayyabnawaz177/) 
 
 #### Reference
 [SDN Network DDoS Detection Using Machine Learning](https://github.com/dz43developer/sdn-network-ddos-detection-using-machine-learning)
