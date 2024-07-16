@@ -36,27 +36,35 @@ These datasets provide a starting point for testing and evaluating IDS models wi
 ## Installation
 
 1. Update your system:
+   ```bash
    sudo apt-get update
 
-2. Install Git:
+3. Install Git:
+   ```bash
    sudo apt-get install git
 
-3. Clone the repository:
+5. Clone the repository:
+   ```bash
    git clone https://github.com/ranauzairahmed/MininetIDS.git
 
-4. Navigate to the project directory:
+7. Navigate to the project directory:
+   ```bash
    cd MininetIDS
 
-5. Make the installation script executable:
+9. Make the installation script executable:
+    ```bash
    chmod +x install.sh
 
-6. Run the installation script:
+11. Run the installation script:
+    ```bash
    ./install.sh
 
 ## Usage
 
 To start the MininetIDS interface, run:
+```bash
 python3 MininetIDS.py
+```
 
 This will launch the command-line interface where you can use various commands to manage datasets, train models, and control the IDS.
 
@@ -88,5 +96,5 @@ Raja Tayyab Nawaz
 tayyabnawaz177@gmail.com
 [LinkedIn](https://www.linkedin.com/in/rajatayyabnawaz177/)
 
-###### Reference
+#### Reference
 [SDN Network DDoS Detection Using Machine Learning](https://github.com/dz43developer/sdn-network-ddos-detection-using-machine-learning)
