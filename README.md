@@ -88,9 +88,9 @@ muhammad.siraj@cust.edu.pk
 [ResearchGate](https://www.researchgate.net/profile/Muhammad-Rathore-2) 
 
 ### Group:
-Rana Uzair Ahmed 
-ranauzairahmed.official@gmail.com 
-[LinkedIn](https://www.linkedin.com/in/ranauzairahmed/) 
+Rana Uzair Ahmed  
+ranauzairahmed.official@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/ranauzairahmed/)  
 
 Raja Tayyab Nawaz
 tayyabnawaz177@gmail.com 
