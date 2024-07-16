@@ -70,6 +70,9 @@ This will launch the command-line interface where you can use various commands t
 
 For a full list of commands, use the `help` command in the MininetIDS interface.
 
+## Example Demonstration
+[![NSL-KDD with MininetIDS]](https://drive.google.com/file/d/1ZEJXnq1i4ojhsLwCxiel0xxOfYbzm3Hq/view?usp=sharing)
+
 ## License
 
 [MIT License](LICENSE)
@@ -92,7 +95,7 @@ Rana Uzair Ahmed
 ranauzairahmed.official@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/ranauzairahmed/)  
 
-Raja Tayyab Nawaz
+Raja Tayyab Nawaz  
 tayyabnawaz177@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/rajatayyabnawaz177/)  
 
