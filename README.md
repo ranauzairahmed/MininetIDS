@@ -33,6 +33,7 @@ MininetIDS comes with two pre-included datasets for testing and evaluation:
    - Contains various types of network attacks and normal traffic
 
 These datasets provide a starting point for testing and evaluating IDS models within the MininetIDS environment. The MininetFlows dataset offers simulated traffic that closely matches the Mininet environment, while NSL-KDD provides a standard benchmark for comparison with other IDS research.
+
 ## Installation
 
 1. Update your system:
@@ -77,7 +78,7 @@ For a full list of commands, use the `help` command in the MininetIDS interface.
 
 [MIT License](LICENSE)
 
-### Associated with [Capital University of Science & Technology](https://cust.edu.pk)
+## Associated with **[Capital University of Science & Technology](https://cust.edu.pk)**
   
 Faculty of Computing  
 BSCS - Final Year Project  
