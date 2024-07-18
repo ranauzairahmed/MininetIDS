@@ -52,7 +52,11 @@ These datasets provide a starting point for testing and evaluating IDS models wi
    ```bash
    cd MininetIDS
 
-9. Make the installation script executable:
+8. If you already have Mininet and Ryu working properly:
+   ```bash
+   pip install -r requirements.txt
+   
+9. Otherwise, make the installation script executable:
     ```bash
    chmod +x install.sh
 
